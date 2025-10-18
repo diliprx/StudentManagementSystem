@@ -149,5 +149,15 @@ student-management-system/
 
 This project is open-source and available under the MIT License.
 
+# Sample Output
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/e847df29-74ae-4f16-a971-15921b87030a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/725626cd-8fec-4383-aff8-32c6197ce276" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96c2f977-d7fd-46fa-8b0b-c92e5eebc721" />
+
+
+
 
 
